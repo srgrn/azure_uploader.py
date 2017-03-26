@@ -1,0 +1,2 @@
+azure==2.0.0rc5
+requests==2.10.0
